@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Muhammad Ahmed,<br> a highly skilled full-stack developer specializing in Next.js and React Native with a passion for creating seamless user experiences.<br><br>💼
+👋 Hello! I'm Muhammad Ahmed, a highly skilled full-stack developer specializing in Next.js and React Native ,<br> with a passion for creating seamless user experiences.<br><br>💼
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
